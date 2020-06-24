@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,6 +52,10 @@
     {
       "class": "rectangle",
       "id": "836286EF-7E48-4278-950D-AFBABCB7FFDF"
+    },
+    {
+      "class": "text",
+      "id": "8A709F63-442F-4453-A276-5A1458AF2905"
     }
   ],
   "name": "画板",
