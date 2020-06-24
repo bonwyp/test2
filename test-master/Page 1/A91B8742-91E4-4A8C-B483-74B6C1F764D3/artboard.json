@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9d3a8be0-b5fb-11ea-86d3-bbf3ef2c0f3e",
+  "do_objectID": "A91B8742-91E4-4A8C-B483-74B6C1F764D3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +22,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 417,
+    "width": 493,
+    "x": -141,
+    "y": 444
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "7BFC6639-58A0-4526-AAD0-FE84381F7E61"
+      "class": "rectangle",
+      "id": "565B5500-AB48-4770-95A9-E10EB718DC44"
     },
     {
-      "class": "artboard",
-      "id": "A91B8742-91E4-4A8C-B483-74B6C1F764D3"
+      "class": "text",
+      "id": "5C6B483C-F420-42AE-9B99-7D47A311AAEB"
     }
   ],
-  "name": "Page 1",
+  "name": "画板",
   "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -88,7 +101,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "289A121C-4327-4AAE-BC1E-C1E5D75DB7EC",
+    "do_objectID": "D61F35A2-4ABF-4843-8EB6-4553D64C286E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -102,7 +115,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
