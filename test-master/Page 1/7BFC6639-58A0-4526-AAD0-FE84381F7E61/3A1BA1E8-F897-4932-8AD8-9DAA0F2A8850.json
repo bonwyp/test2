@@ -52,8 +52,8 @@
     "constrainProportions": false,
     "height": 28,
     "width": 85,
-    "x": 175,
-    "y": 250
+    "x": 255,
+    "y": 59
   },
   "glyphBounds": "{{1, 6}, {82, 16}}",
   "hasClippingMask": false,

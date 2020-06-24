@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "cd6a8e40-b5fc-11ea-bc99-a9ff056f7349",
+  "do_objectID": "9F8CC6C5-D3E8-417C-BB5E-443DED796DC6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +22,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 283,
+    "width": 575,
+    "x": -19,
+    "y": 65
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "9F8CC6C5-D3E8-417C-BB5E-443DED796DC6"
+      "class": "rectangle",
+      "id": "45368A9C-7617-4BA2-8D82-21EE86969754"
+    },
+    {
+      "class": "text",
+      "id": "1C05076D-003D-4EF0-BEAC-61F89C8ED760"
     }
   ],
-  "name": "Page 1",
+  "name": "画板",
   "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -84,7 +101,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F3CEEC53-2282-48CC-8AB7-60F766DE31E2",
+    "do_objectID": "DBA5C16B-0995-46AE-8C8B-1DC85FD5289E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,7 +115,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

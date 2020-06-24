@@ -40,12 +40,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "263BD1B7-CBE9-47E0-BE0F-E3DB66B8DBF4"
-    },
-    {
-      "class": "text",
-      "id": "3A1BA1E8-F897-4932-8AD8-9DAA0F2A8850"
+      "class": "artboard",
+      "id": "7BFC6639-58A0-4526-AAD0-FE84381F7E61"
     }
   ],
   "name": "Page 1",
